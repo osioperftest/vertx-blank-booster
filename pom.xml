@@ -30,11 +30,6 @@
                 <artifactId>arquillian-cube-openshift-starter</artifactId>
                 <scope>test</scope>
             </dependency>
-            <dependency>
-                <groupId>org.arquillian.cube</groupId>
-                <artifactId>arquillian-cube-openshift-starter</artifactId>
-                <scope>test</scope>
-            </dependency>
         
     </dependencies>
 
