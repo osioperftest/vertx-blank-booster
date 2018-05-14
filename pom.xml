@@ -28,7 +28,7 @@
             <dependency>
                 <groupId>org.arquillian.cube</groupId>
                 <artifactId>arquillian-cube-openshift-starter</artifactId>
-                <version>${vertx.version}</version>
+                <version>1.15.3</version>
                 <scope>test</scope>
             </dependency>
         
